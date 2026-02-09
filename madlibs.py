@@ -25,12 +25,13 @@ if choice == "1":
         "Enter another number: ",
         "Enter another noun: ",
         "Enter another noun: ",
-        "Enter another part of the body: ",
+        "Enter another part of  body: ",
         "Enter a verb: ",
         "Enter another noun: ",
         "Enter an adjective: ",
         "Enter a silly word: "
     ]
+
 
     for prompt in prompts:
         words.append(input(prompt))
